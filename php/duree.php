@@ -52,4 +52,5 @@ function NbJour($debut, $fin = null)
             break;
     }
 }
+
 ?>
