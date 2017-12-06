@@ -11,10 +11,6 @@
     <script type="text/javascript" src="js/menu.js"></script>
     <script type="text/javascript" src="js/tagscript.js"></script>
     <script src="semantic/semantic.min.js"></script>
-    <script src="https://smtpjs.com/v2/smtp.js"></script>
-
-
-
 </head>
 
 
@@ -38,7 +34,7 @@
 
             <?php include('html/formations.html'); ?>
 
-            <?php include('html/parcours.html'); ?>
+
         </div>
     </div>
 
