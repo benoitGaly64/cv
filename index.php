@@ -20,25 +20,26 @@
 
     <?php include('html/lateral.html'); ?>
 
-    <div class="pusher" style="position: relative">
-        <div class="ui container" id="content" >
-            <div class="container" style="">
-            <?php include('html/home.html'); ?>
+    <div class="pusher">
+        <div class="ui container" id="content">
+            <div class="ui basic segment">
+                <?php include('html/home.html'); ?>
 
-            <?php include('html/competences.html'); ?>
+                <?php include('html/competences.html'); ?>
 
-            <?php include('php/duree.php'); ?>
-            <?php include('html/realisations.html'); ?>
+                <?php include('php/duree.php'); ?>
+                <?php include('html/realisations.html'); ?>
 
-            <?php include('html/experiences.html'); ?>
+                <?php include('html/experiences.html'); ?>
 
-            <?php include('html/formations.html'); ?>
+                <?php include('html/formations.html'); ?>
 
+
+            </div>
 
         </div>
-    </div>
 
-</div>
+    </div>
 
 
 </body>
