@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31ab5c79-0f67-49cc-83c7-c7b392b537a0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/profile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/profile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/realisations/ad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/realisations/agile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/realisations/budget.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/realisations/centreon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/realisations/mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/realisations/master.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/realisations/mysql.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/realisations/ocr.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/realisations/office.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/realisations/pra.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/realisations/server.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/realisations/stormshield.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/realisations/veeam.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/realisations/vmware.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/realisations/vpn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/virtualisation.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/themes/default/assets/fonts/icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/themes/default/assets/fonts/icons.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/themes/default/assets/fonts/icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/themes/default/assets/fonts/icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/themes/default/assets/fonts/icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/themes/default/assets/images/flags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/cv.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/www.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/timesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/timesheet_white.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/competences.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/experiences.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/formations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/formulaire" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/lateral.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/parcours.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/realisations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/tagcloud.jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/tagscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/timesheet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/duree.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/.versions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/accordion.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/accordion.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/ad.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/ad.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/api.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/breadcrumb.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/breadcrumb.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/button.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/card.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/card.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/checkbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/checkbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/checkbox.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/checkbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/colorize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/colorize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/comment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/comment.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/container.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/container.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/dimmer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/dimmer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/dimmer.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/dimmer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/divider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/divider.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/dropdown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/dropdown.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/dropdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/embed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/embed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/embed.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/embed.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/feed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/feed.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/flag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/flag.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/form.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/form.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/header.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/icon.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/image.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/image.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/input.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/item.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/label.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/label.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/list.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/list.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/loader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/loader.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/menu.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/message.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/message.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/modal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/modal.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/modal.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/nag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/nag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/nag.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/nag.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/popup.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/progress.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/progress.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/progress.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/rail.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/rail.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/rating.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/rating.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/rating.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/reset.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/reveal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/reveal.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/search.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/search.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/search.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/segment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/segment.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/shape.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/shape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/shape.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/shape.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/sidebar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/sidebar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/sidebar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/site.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/site.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/site.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/state.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/statistic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/statistic.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/step.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/step.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/sticky.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/sticky.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/sticky.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/tab.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/tab.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/tab.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/table.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/transition.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/transition.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/transition.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/video.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/video.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/visibility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/visibility.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/visit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/components/visit.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/jquery-3.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/semantic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/semantic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/semantic.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/semantic.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic/themes/default/assets/fonts/icons.svg" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cv" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31ab5c79-0f67-49cc-83c7-c7b392b537a0" name="Default" comment="" />
+      <created>1512555757364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512555757364</updated>
+      <workItem from="1512555758686" duration="111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="111000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24786781" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32981783" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32981783" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
