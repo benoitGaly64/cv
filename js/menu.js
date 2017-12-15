@@ -34,7 +34,7 @@ menu.ready = function () {
                 event.preventDefault();
                 if ($('.ui.form').form('is valid')) {
                     // form is valid (both email and name)
-                    $.post('http://localhost/php/email.php',
+                    $.post('http://benoit-galy.fr/php/email.php',
                         {
                             emailfrom: $('#contact').find('input[name="emailfrom"]').val(),
                             email_content: $('#contact').find('textarea[name="email_content"]').val()
