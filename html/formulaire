@@ -3,11 +3,11 @@
         <form class="ui form" id="contact" method="post"
         ">
         <div class="field">
-            <label>votre Email</label>
+            <label>Votre Email</label>
             <input type="text" name="emailfrom" placeholder="Votre email">
         </div>
         <div class="field">
-            <label>Text</label>
+            <label>Message</label>
             <textarea name="email_content"></textarea>
         </div>
         <div id="sendMailMessage"></div>

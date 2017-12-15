@@ -11,7 +11,7 @@ menu.ready = function () {
                         rules: [
                             {
                                 type: 'email',
-                                prompt: 'merci de rensegner un email valide'
+                                prompt: 'Merci de renseigner un email valide.'
                             }
                         ]
                     },
@@ -20,7 +20,7 @@ menu.ready = function () {
                         rules: [
                             {
                                 type: 'empty',
-                                prompt: 'Please enter a value'
+                                prompt: 'Merci de renseigner un message.'
                             }
                         ]
                     }
@@ -41,16 +41,16 @@ menu.ready = function () {
                         },
                         function (data) {
                             console.log(data);
-                            $('#sendMailMessage').html('Votre message a bien été envoyé');
+                            $('#sendMailMessage').html('Votre message a bien été envoyé.');
                             $('#sendMailMessage').css('color', 'green');
                         }).fail(function (data) {
                         console.log(data);
-                        $('#sendMailMessage').html('Echec de l\'envoi du mail... Veuillez réessayer ultérieurrement');
+                        $('#sendMailMessage').html('Echec de l\'envoi du mail... Veuillez réessayer ultérieurement.');
                         $('#sendMailMessage').css('color', 'red');
                     })
                 }
                 else {
-                    $('#sendMailMessage').html('Veuillez remplir tous les champs');
+                    $('#sendMailMessage').html('Veuillez remplir tous les champs.');
                     $('#sendMailMessage').css('color', 'red');
                 }
             }
@@ -80,15 +80,15 @@ menu.ready = function () {
 
                 $(this).innerHTML = "";
                 new Timesheet('timesheet', 2011, 2017, [
-                    ['07/2006', '09/2006', 'Cuisinier à l\'hostellerie du Chateau', 'lorem'],
-                    ['07/2007', '07/2008', 'Commis de salle à l\'hotel du palais, Biarritz', 'dolor'],
-                    ['07/2008', '10/2008', 'Commis de Cuisine à l\'hotel Régina, Biarritz', 'sit'],
+                    ['07/2006', '09/2006', 'Cuisinier à l\'Hostellerie du Château', 'lorem'],
+                    ['07/2007', '07/2008', 'Commis de salle à l\'Hôtel du Palais, Biarritz', 'dolor'],
+                    ['07/2008', '10/2008', 'Commis de Cuisine à l\'Hôtel Régina, Biarritz', 'sit'],
                     ['02/2009', '05/2009', 'Commis de cuisine au Chalet du Bissac, Flaine', 'ipsum'],
                     ['05/2009', '03/2011', 'Chef de cuisine au Havana Café, Anglet', 'default'],
-                    ['03/2011', '05/2011', 'Patissier au Fournil de la Licorne, Bidart', 'sit'],
+                    ['03/2011', '05/2011', 'Pâtissier au Fournil de la Licorne, Bidart', 'sit'],
                     ['07/2011', '07/2011', 'Stage SOS Panic PC', 'dolor'],
-                    ['12/2011', '04/2012', 'Stage Communauté des communes du Piémont Oloronais', 'ipsum'],
-                    ['10/2012', '12/2017', 'Administrateur Systeme - Anaqua Services', 'default']
+                    ['12/2011', '04/2012', 'Stage Communauté des Communes du Piémont Oloronais', 'ipsum'],
+                    ['10/2012', '12/2017', 'Administrateur Système - Anaqua Services', 'default']
                 ]);
             }
 
