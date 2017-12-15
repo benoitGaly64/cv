@@ -10,13 +10,23 @@ body {
 }
 
 #sidebar {
-    width: 250px;
+    width: 260px;
     height: 100vh;
-    background-color: #bababc;
+    background-color: #314153;
+    color: #FFFFFF;
 }
-
+#sidebar a {
+    color: #FFFFFF;
+}
+.me {
+    font-size: 20px;
+}
+.divider {
+    //padding: 1em 0em;
+    background-color:#FFFFFF;
+}
 #content {
-    width: calc(100% - 270px);
+    width: calc(100% - 280px);
     margin-left: 10px !important;
     position: absolute;
     top: 20%;
